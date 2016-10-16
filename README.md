@@ -1,2 +1,2 @@
 # organize-me
-First repository on github
+My first repository on github
